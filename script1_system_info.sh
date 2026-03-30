@@ -2,7 +2,7 @@
 
 # ==========================================
 # Script 1: System Identity Report
-# Author: [Your Name]
+# Author: [RAMINENI TEJA]
 # Course: Open Source Software
 # Description:
 # Displays important information about the
